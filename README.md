@@ -1,10 +1,3 @@
-# Hi there, I'm T. C. Ray 👋
-
-### 🎓 Computer Science and Engineering Student
-**Gopalganj Science and Technology University**
-
----
-
 ## 👨‍💻 About Me
 - 👤 **Name:** T. C. Ray
 - 🏛️ **University:** Gopalganj Science and Technology University
